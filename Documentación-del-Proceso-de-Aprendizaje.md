@@ -53,7 +53,8 @@ Este proceso combinó teoría y práctica, consolidando cada etapa con ejercicio
 
 ### 4. Entender Conceptos Abstractos
 **Desafío**: Algunos conceptos teóricos eran complejos.
-**Solución**: (continúa aquí con estrategias específicas que utilizaste, como discutir con otros desarrolladores, leer libros, o hacer ejercicios prácticos).
+Solución cocontínua con estrategias específicas que desarrollé, como discutir con otros desarrolladores, leer libros, y hacer ejercicios prácticos. 
+
 
 ## Conclusión
 El aprendizaje de Node.js y Socket.io fue un proceso desafiante pero gratificante. Cada dificultad superada me proporcionó una comprensión más profunda de cómo estas herramientas pueden mejorar la experiencia de usuario en aplicaciones web en tiempo real. 
