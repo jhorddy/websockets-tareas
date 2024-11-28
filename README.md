@@ -5,7 +5,7 @@
 
 ## para ejecutar
 - npm run dev
-- Server on http://localhost:3000 dame en readme convierte este texto 
+- Server on http://localhost:3000 
 
 
 [Ver el video](https://drive.google.com/file/d/1vbtoCwJWShZA9kzn3mUnnSc5VwWHXG5r/view?usp=sharing)
