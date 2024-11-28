@@ -53,7 +53,7 @@ Este proceso combinó teoría y práctica, consolidando cada etapa con ejercicio
 
 ### 4. Entender Conceptos Abstractos
 **Desafío**: Algunos conceptos teóricos eran complejos.
-Solución cocontínua con estrategias específicas que desarrollé, como discutir con otros desarrolladores, leer libros, y hacer ejercicios prácticos. 
+Solución contínua con estrategias específicas que desarrollé, como discutir con otros desarrolladores, leer libros, y hacer ejercicios prácticos. 
 
 
 ## Conclusión
